@@ -8,7 +8,7 @@ BioRewired brings together **Design & Training**, **Easy Training**, **Session R
 
 [Join BioRewired on Discord](https://discord.gg/bvnksC9gJq) for tutorials, beta information and feedback.
 
-The beta repository is currently private. Current release candidates are under owner review; there is no public download available here yet. GitHub's automatic source archives are not the Windows application.
+The beta repository is private. The current experimental Windows beta is available to invited testers with Read access: [Suite008 download](https://github.com/BioRewired/BioRewired/releases/tag/beta-2026.11.26.suite008). Join Discord for beta information. There is no anonymous public download here. GitHub's automatic source archives are not the Windows application.
 
 Approved beta testers with repository access can read the [getting-started guide](https://github.com/BioRewired/BioRewired/blob/main/docs/GETTING-STARTED.md), [illustrated tutorial](https://github.com/BioRewired/BioRewired/blob/main/docs/TUTORIAL.md) and [known issues](https://github.com/BioRewired/BioRewired/blob/main/docs/KNOWN-ISSUES.md).
 
